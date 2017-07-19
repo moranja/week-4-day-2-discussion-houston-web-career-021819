@@ -2,7 +2,7 @@
 
 Take 30 minutes and discuss the following with your table group. Try whiteboarding out different solutions and ideas!
 
-1. Map the CRUD actions (create, read, update, delete) to their matching Sinatra routes and HTTP verbs. For example: The "Read" CRUD action corresponds to the `get '/show'` route, which is an HTTP Get request. 
+1. Map the CRUD actions (create, read, update, delete) to their matching Sinatra routes and HTTP verbs. For example: In a blog app, displaying the content of one particular blog post corresponds to the "Read" CRUD action and the *show* RESTful route. The matching route would be an HTTP Get request to '/posts/:id' where the id is that particular post's id i.e. '/posts/6' . 
 2. Build an HTML form to create a new blog post. Then, build a form to edit a post. What are the differences between the two? What routes do they send requests to? What type of requests should each form make?
 3. Revisit your CRUD action-to-route map. What view files, if any, does each action/route correspond to? 
 4. Write out the Active Record code to preform CRUD actions on a Post model. 
