@@ -10,4 +10,4 @@ Take 30 minutes and discuss the following with your table group. Try whiteboardi
   * What is the relationship between a list and an item?
   * A user needs to be able to visit your app, create a new list and then add items to that list. What route would bring the user to the the page to make a new list? What route would take them to the page to make a new item?
   * How and where would you write the code that associates a new item to its list?
-<p class='util--hide'>View <a href='https://learn.co/lessons/week-4-day-2-discussion'>Week 4 Day 2 Discussion</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/week-4-day-2-discussion'>Forms, CRUD and Active Record Associations</a> on Learn.co and start learning to code for free.</p>
